@@ -4,7 +4,7 @@ description: "Some experience with my work and lift." # This will show up in pla
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "zhiliatox@16e.com"
+email: "zhiliatox@163.com"
 #twitter_username: "twitteruser"
 github_username: "zhiliatom"
 #linkedin_username: "linkedinuser"
@@ -20,7 +20,7 @@ github_username: "zhiliatom"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
